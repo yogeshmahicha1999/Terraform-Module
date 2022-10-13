@@ -1,7 +1,7 @@
 ##################################### access  ##################################
 
-access_key = "AKIA2XSJV7MWZM7ST3PL"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 region     = "ap-south-1"
 
 ###################################### instance #######################
